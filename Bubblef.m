@@ -13,7 +13,11 @@ function c=Bubblef(A)
 
   NumericArrayLength= length(A)
 
+<<<<<<< HEAD
    swapped =65; % Control variable 
+=======
+   swapped =3+4; % Control variable 
+>>>>>>> origin/MATLAB
    while (swapped==1)
        swapped=0;
      for i = 1:NumericArrayLength-1
